@@ -1,6 +1,7 @@
 # 4-Mode-Washing-Machine-using-FSM
 Schematics
 <img width="1561" height="668" alt="Screenshot 2025-09-26 011349" src="https://github.com/user-attachments/assets/1be3e7c6-35a6-4da7-8b44-411c2bdb61d6" />
+
 MODE 1 WASH
 <img width="1546" height="808" alt="Screenshot 2025-09-26 005704" src="https://github.com/user-attachments/assets/18e7337d-a5ec-44b2-92b1-c1eaa1e88bf5" />
 
